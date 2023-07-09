@@ -1,0 +1,5 @@
+"127.0.0.1", "Location{city='null', country=null, street='null', building=0}"
+"172.0.32.11", "Location{city='Moscow', country=RUSSIA, street='Lenina', building=15}"
+"96.44.183.149", "Location{city='New York', country=USA, street='10th Avenue', building=32}"
+"172.55.123.123", "Location{city='Moscow', country=RUSSIA, street='null', building=0}"
+"96.55.123.123", "Location{city='New York', country=USA, street='null', building=0}"
